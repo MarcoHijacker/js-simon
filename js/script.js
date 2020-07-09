@@ -7,8 +7,8 @@
 
 // Dichiarazione variabili
 
-var numeriEstratti = []; // var contenente i 5 numeri vincenti, ognuno nel range 1-100
-var numeroRandom = 0; // singolo numero estratto
+var numeriEstratti = []; // Var contenente i 5 numeri vincenti, ognuno nel range 1-100
+var numeroRandom = 0; // Singolo numero estratto
 
 for (var i = 0; i < 5; i++) {
   numeroRandom = getRandom(1,100);
